@@ -1,17 +1,18 @@
 {
-  "name": "Crypto Snakes",
-  "description": "Modern crypto-themed snakes and ladders game for Farcaster",
-  "icon": "https://YOURDOMAIN/icon.png",
-  "splash": "https://YOURDOMAIN/splash.png",
-  "homepage": "https://YOURDOMAIN",
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjI5OTM5NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQxQTBlMTNjMzdCOWRCNzgwMzIzMEQ0NjA4Mjc2MDczMEJiNDIxM2YifQ",
+    "payload": "eyJkb21haW4iOiJzbmFrZXMtbGVkZGVycy52ZXJjZWwuYXBwIn0",
+    "signature": "MHg2MThkNzUwZGY1ZWRmOGNjMjdjY2UwN2QwMjBlNzJmYTI4NjE4ZWYxNTM1YWU0MTUzZjQyOWQwMmQ1YTEwZmI4MDI2MWM0Y2NjNDE4MDI2ZDBkNGRkM2E4NDQ3MGY5NmU3YjQ1OWFjMThlMGMzZjMwNDVmZjYxYjdmMGM0MjlhMTFj"
   },
   "frame": {
-    "version": "0.0.0",
-    "start": "https://YOURDOMAIN",
-    "postUrl": "https://YOURDOMAIN/api/game/play"
+    "version": "1",
+    "name": "SnakesLedders",
+    "iconUrl": "https://snakes-ledders.vercel.app/icon.png",
+    "homeUrl": "https://snakes-ledders.vercel.app",
+    "imageUrl": "https://snakes-ledders.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://snakes-ledders.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://snakes-ledders.vercel.app/api/webhook"
   }
 }
