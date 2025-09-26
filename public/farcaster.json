@@ -1,0 +1,17 @@
+{
+  "name": "Crypto Snakes",
+  "description": "Modern crypto-themed snakes and ladders game for Farcaster",
+  "icon": "https://YOURDOMAIN/icon.png",
+  "splash": "https://YOURDOMAIN/splash.png",
+  "homepage": "https://YOURDOMAIN",
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "0.0.0",
+    "start": "https://YOURDOMAIN",
+    "postUrl": "https://YOURDOMAIN/api/game/play"
+  }
+}
