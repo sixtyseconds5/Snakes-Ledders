@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI5OTM5NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQxQTBlMTNjMzdCOWRCNzgwMzIzMEQ0NjA4Mjc2MDczMEJiNDIxM2YifQ",
+    "payload": "eyJkb21haW4iOiJzbmFrZXMtbGVkZGVycy52ZXJjZWwuYXBwIn0",
+    "signature": "MHg2MThkNzUwZGY1ZWRmOGNjMjdjY2UwN2QwMjBlNzJmYTI4NjE4ZWYxNTM1YWU0MTUzZjQyOWQwMmQ1YTEwZmI4MDI2MWM0Y2NjNDE4MDI2ZDBkNGRkM2E4NDQ3MGY5NmU3YjQ1OWFjMThlMGMzZjMwNDVmZjYxYjdmMGM0MjlhMTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://snakes-ledders.vercel.app/icon.png",
+    "homeUrl": "https://snakes-ledders.vercel.app",
+    "imageUrl": "https://snakes-ledders.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://snakes-ledders.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://snakes-ledders.vercel.app/api/webhook"
+  }
+}
